@@ -4,7 +4,8 @@
 
 ![](https://travis-ci.org/sweIhm-ws2018-19/skillproject-do-2.svg?branch=master)
 
-[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=skillproject%3AsimpleBarkeeper&metric=alert_status)](https://sonarcloud.io/dashboard?id=skillproject%3AsimpleBarkeeper)
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=skillproject%3Gehirnjogging&metric=alert_status)](https://sonarcloud.io/dashboard?id=alexa-skills-kit-samples%3AGehirnjogging)
+
 
 
 ## Systemidee
